@@ -26,7 +26,7 @@ void PrintArray1(string[] array1)
         Console.WriteLine();
     }
 
-// Метод для изменения массива.
+// Метод для изменения массива, в ходе которого второй массив заполняется элементами первого, подходящими по условию, указанному в функции if.
 
 void ModifyArray(string[] array1, string[] array2)
     {
